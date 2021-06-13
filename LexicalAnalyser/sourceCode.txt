@@ -1,0 +1,13 @@
+main()
+{
+	int a,b,c,d;
+	a=5;
+	b=10;
+	printf("Enter c : ");
+	scanf("%d",&c);
+	d=a+b;
+	printf("%d",d);
+	d=d+c;
+	printf("%d",c);
+	
+}

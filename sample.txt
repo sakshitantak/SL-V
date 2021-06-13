@@ -1,0 +1,10 @@
+start 100
+read A
+read B
+read C
+mover AREG, A
+add AREG, B
+mover AREG, C
+print C
+again: add AREG, C
+stop $

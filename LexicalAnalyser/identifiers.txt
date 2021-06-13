@@ -1,0 +1,8 @@
+main 1
+int 2
+a 3
+b 4
+c 5
+d 6
+printf 7
+scanf 8
